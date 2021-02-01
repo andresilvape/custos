@@ -1,6 +1,6 @@
-# teste
+# App de Custos em Flutter
 
-Teste app
+App para controle de Despesas 
 
 ## Getting Started
 
