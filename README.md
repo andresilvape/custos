@@ -12,7 +12,7 @@ O Sistema de Custos foi desenvolvido em Flutter para permitir mobilidade e agili
 
 # Tecnologias utilizadas
 ## Back end
--Dart
+- Dart
 ## Front end
 - Flutter
 
