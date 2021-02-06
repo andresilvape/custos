@@ -1,16 +1,30 @@
-# App de Custos em Flutter
+# Sistema de Custos
 
-App para controle de Despesas 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/andresilvape/eventos/blob/add-license-1/LICENSE)
 
-## Getting Started
+# Sobre o projeto
 
-This project is a starting point for a Flutter application.
+O Sistema de Custos foi desenvolvido em Flutter para permitir mobilidade e agilidade para os gestores com as despesas emergenciais.
 
-A few resources to get you started if this is your first Flutter project:
+## Layout mobile
+![Alt text](https://github.com/andresilvape/assets/blob/main/custos.JPG?raw=true")
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Tecnologias utilizadas
+## Back end
+-Dart
+## Front end
+- Flutter
+
+## Implementação Local
+- Back end: device/emulator
+- Front end web: device/emulator
+
+## Back end
+Pré-requisitos: Flutter
+
+# Autor
+
+André Amaro
+
+https://www.linkedin.com/in/andre-amaro-pe/
