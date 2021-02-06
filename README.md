@@ -20,8 +20,8 @@ O Sistema de Custos foi desenvolvido em Flutter para permitir mobilidade e agili
 - Back end: device/emulator
 - Front end web: device/emulator
 
-## Back end
-Pré-requisitos: Flutter
+## Back end/ front
+Pré-requisitos: Flutter SDK / Emulador / Celular
 
 # Autor
 
